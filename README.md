@@ -1,4 +1,4 @@
-# ECS150-Assembly
+# ECS50-Assembly
 
 Assembly projects from ECS50 - Machine Dependent Programming
 1. Solves the 0-1 knapsack problem recursively in assembly
